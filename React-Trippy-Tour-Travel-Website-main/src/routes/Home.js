@@ -10,11 +10,11 @@ function Home() {
       <Navbar />
       <HomeHero
         cName="hero"
-        heroImg="https://images.unsplash.com/photo-1586016413664-864c0dd76f53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-        title="Your Journey Your Story"
-        text="Choose Your Favourite Destination."
+        heroImg="https://images.unsplash.com/photo-1694632270142-46c18ea2b1f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDExMHxpVUlzblZ0akIwWXx8ZW58MHx8fHx8"
+        title="Enrich Your Wealth"
+        text="Shoolin Analytica is an firm that employs mathematical and statistical methods in the design and execution of its investment programs"
         btnClass="show"
-        buttonText="Travel Plan"
+        buttonText="Explore"
         url="/"
       />
       <Destination />
