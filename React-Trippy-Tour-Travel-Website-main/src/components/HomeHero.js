@@ -12,9 +12,9 @@ function HomeHero(props) {
             {props.buttonText}
           </a>
         </div>
-        {/* <h1>Your Journey Your Story</h1>
-        <p>Choose Your Favourite Destination.</p>
-        <a href="index.html">Travel Plan</a> */}
+        {/* <h1>Enrich Your Wealth With Us</h1>
+        <p>We Solve Complex Financial Problems.</p>
+        <a href="index.html">Explore</a> */}
       </div>
     </>
   );
