@@ -12,8 +12,8 @@ function HomeHero(props) {
             {props.buttonText}
           </a>
         </div>
-        {/* <h1>Enrich Your Wealth With Us</h1>
-        <p>We Solve Complex Financial Problems.</p>
+        {/* <h1>Enrich Your Wealth</h1>
+        <p>Shoolin Analytica is an firm that employs mathematical and statistical methods in the design and execution of its investment programs</p>
         <a href="index.html">Explore</a> */}
       </div>
     </>
